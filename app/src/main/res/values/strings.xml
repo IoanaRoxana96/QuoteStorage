@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StorageQuote</string>
+    <string name="save">Save</string>
+    <string name="Add_new">Add new</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
